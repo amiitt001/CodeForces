@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int s1, s2, s3, s4;
+    cin >> s1 >> s2 >> s3 >> s4;
+    int r, count = 0;
+    if (s1 != s2)
+    {
+        if (s1 != s3)
+        {
+            if (s1 != s4)
+            {
+
+                count++;
+            }
+        }
+    }if (s2 != s3)
+    {
+        if (s2 != s4)
+        {
+            
+
+                count++;
+            
+        }
+    }
+    if (s3 != s4)
+    {
+        count++;
+    }
+    r = count + 1;
+    if (r < 4)
+    {
+        cout << 4 - r;
+    }
+    else
+    {
+        cout << 0;
+    }
+
+    return 0;
+}
