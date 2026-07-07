@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 8 |
+| 35 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (15)
-- [math](#math) (7)
+- [implementation](#implementation) (26)
+- [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (7)
+- [strings](#strings) (9)
 
 ---
 
@@ -35,7 +36,14 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/amiitt001/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/231/A%20-%20Team/solution.c) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 
 ### greedy
 
@@ -52,30 +60,44 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/59/A%20-%20Word/solution.c) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/96/A%20-%20Football/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.c) |
+| 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.c) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.c) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.c) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.c) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.c) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/amiitt001/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.c) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### number theory
@@ -97,10 +119,12 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/59/A%20-%20Word/solution.c) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/amiitt001/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/96/A%20-%20Football/solution.c) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.c) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 
 ---
 
