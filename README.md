@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 7 |
+| 22 | 8 |
 
 ---
 
@@ -14,9 +14,10 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (15)
-- [math](#math) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
 
@@ -43,6 +44,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### implementation
 
@@ -74,6 +76,13 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/amiitt001/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.c) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/amiitt001/CodeForces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### sortings
 
